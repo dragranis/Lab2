@@ -1,0 +1,13 @@
+h1{
+	color:red;
+	
+}
+
+h2{
+	color:green;
+	text-decoration:underline overline wavy red;
+}
+
+p{
+	font-style:italic;
+}
